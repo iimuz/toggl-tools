@@ -1,0 +1,17 @@
+{
+  // === auto time stamp ===
+  "lpubsppop01.autoTimeStamp.filenamePattern": ".md",
+  "lpubsppop01.autoTimeStamp.lineLimit": 5,
+  "lpubsppop01.autoTimeStamp.modifiedTimeStart": "lastmod: ",
+  "lpubsppop01.autoTimeStamp.momentFormat": "YYYY-MM-DD",
+  // === markdown ===
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  // === rust ===
+  "lldb.verboseLogging": true,
+  "search.exclude": {
+    "**/target": true
+  }
+}
